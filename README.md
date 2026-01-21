@@ -1,2 +1,5 @@
-DATA ANALYSIS USING PYTHON 
-DATA STORY TELLING 
+Data analysis using python 
+Multivariate analysis 
+Bivariate Analysis 
+Univariate analysis 
+Data Story tellin
